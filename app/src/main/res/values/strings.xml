@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Context Menu Translation</string>
+    <string name="quot_hello_quot">\"Hello\"</string>
+</resources>
